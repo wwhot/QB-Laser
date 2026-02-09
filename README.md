@@ -1,6 +1,6 @@
 *******IMPORTANT 
 
-in add item to your inventory
+add item to your inventory
 
 ['taser_laser'] = {
     label = 'Tactical Laser Sight',
