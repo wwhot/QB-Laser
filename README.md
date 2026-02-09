@@ -9,7 +9,7 @@ add item to your inventory
     close = true,
     description = 'An attachable laser sight. Use to configure and attach.',
     client = {
-        export = 'qb-laser.useLaserItem' -- We will create this export in the client script below
+        export = 'qb-laser.useLaserItem'
     }
 },
 
